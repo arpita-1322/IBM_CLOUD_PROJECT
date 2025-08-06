@@ -1,2 +1,3 @@
 # IBM_CLOUD_PROJECT
-IBM Cloud project details, files(AI,CLOUD,RAG LAB) as well as complete final project pdf file.
+IBM Cloud project details
+Files( AI , CLOUD , RAG LAB) as well as complete final project pdf file.
